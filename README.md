@@ -1,0 +1,2 @@
+# Logger
+Minimalistic Cpp logger
